@@ -1,0 +1,4 @@
+- pipeline: xddijbigdg
+  refs:
+  - refs/heads/master
+  on: CLICK
